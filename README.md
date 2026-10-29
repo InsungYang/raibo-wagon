@@ -1,6 +1,6 @@
 # RAIBO-Wagon: Real-Time Navigation System for a Legged Robot Towing a Wagon
 
-**[Project Page](https://insungyang.github.io/raibo-wagon/)** | Paper (arXiv, coming soon)
+**[Project Page](https://insungyang.github.io/raibo-wagon/)**
 
 Insung Yang, Eunchae Kim, Jungwoo Hur, Seunghun Jeon, Donghyuk Choi, Jemin Hwangbo\*
 
